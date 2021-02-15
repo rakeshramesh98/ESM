@@ -1,6 +1,6 @@
 // Syntax
 // Array.from(arrayLike [, mapFn [, thisArg]])
-export default function from() {
+export default function arrayFrom() {
     console.log("change the string to array")
     console.log(Array.from('foots'));
     

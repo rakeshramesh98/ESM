@@ -15,6 +15,7 @@ import indexOf from './indexof.mjs';
 import isArray from './isarray.mjs';
 import Iterate from './iterator.mjs'
 import join from './join.mjs';
+import reduceMethods from './reducemethods.mjs';
 concat();
 Iterate();
 copyWithin();
@@ -32,3 +33,4 @@ includes();
 indexOf();
 isArray();
 join();
+reduceMethods();
